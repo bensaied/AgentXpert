@@ -18,19 +18,6 @@ Watch AgentXpert in action:
 
 **Infrastructure:** IBM WatsonX
 
-## 🔥 Features
-
-AgentXpert leverages advanced AI models and prompt engineering for each key task:
-
-1. **Ticket Classification:** Prompt Tuned Flan-T5-XL-3B  
-2. **Subject Identification:** Prompt Engineering with Granite-3B-Code-Instruct  
-3. **Summarization:** Prompt Engineering with Mixtral-8x7B-Instruct-v0.1  
-4. **Sentiment Analysis:** Fine Tuned BERT model (nlptown/bert-base-multilingual-uncased-sentiment)  
-5. **Proposed Solution Generation:** Granite-3-8B-Instruct  
-6. **Email Generation:** Prompt Engineering with Granite-34B-Code-Instruct  
-
-We also provide a feedback option to improve ticket analysis continuously as part of AgentXpert's future enhancements.
-
 ## 🚀 Use Cases
 
 AgentXpert supports multiple practical applications for customer support automation:
@@ -43,7 +30,20 @@ AgentXpert supports multiple practical applications for customer support automat
 
 - **MCP Server Integration (In Progress):**  
   Developing the AgentXpert MCP Server to integrate with any MCP-compliant client for enhanced interoperability and automation.
-  
+
+  ## 🔥 Features
+
+AgentXpert leverages advanced AI models and prompt engineering for each key task:
+
+1. **Ticket Classification:** Prompt Tuned Flan-T5-XL-3B  
+2. **Subject Identification:** Prompt Engineering with Granite-3B-Code-Instruct  
+3. **Summarization:** Prompt Engineering with Mixtral-8x7B-Instruct-v0.1  
+4. **Sentiment Analysis:** Fine Tuned BERT model (nlptown/bert-base-multilingual-uncased-sentiment)  
+5. **Proposed Solution Generation:** Granite-3-8B-Instruct  
+6. **Email Generation:** Prompt Engineering with Granite-34B-Code-Instruct  
+
+We also provide a feedback option to improve ticket analysis continuously as part of AgentXpert's future enhancements.
+
 ## 📝 Authors
 
 - Github: [@bensaied](https://www.github.com/bensaied)
