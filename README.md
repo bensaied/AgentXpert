@@ -31,7 +31,7 @@ AgentXpert supports multiple practical applications for customer support automat
 - **MCP Server Integration (In Progress):**  
   Developing the AgentXpert MCP Server to integrate with any MCP-compliant client for enhanced interoperability and automation.
 
-  ## 🔥 Features
+## 🔥 Features
 
 AgentXpert leverages advanced AI models and prompt engineering for each key task:
 
