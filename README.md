@@ -39,7 +39,7 @@ AgentXpert leverages advanced AI models and prompt engineering for each key task
 2. **Subject Identification:** Prompt Engineering with Granite-3B-Code-Instruct  
 3. **Summarization:** Prompt Engineering with Mixtral-8x7B-Instruct-v0.1  
 4. **Sentiment Analysis:** Fine Tuned BERT model (nlptown/bert-base-multilingual-uncased-sentiment)  
-5. **Proposed Solution Generation:** Granite-3-8B-Instruct  
+5. **Proposed Solution Generation:** Granite-3-8B-Instruct with RAG technique
 6. **Email Generation:** Prompt Engineering with Granite-34B-Code-Instruct  
 
 We also provide a feedback option to improve ticket analysis continuously as part of AgentXpert's future enhancements.
