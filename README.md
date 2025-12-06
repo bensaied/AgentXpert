@@ -1,4 +1,4 @@
-﻿# AgentXpert
+# AgentXpert
 
 **Say goodbye to manual ticket processing!**  
 Upload your tickets from Excel/CSV or connect your Jira/Azure DevOps accounts, and let **AgentXpert** handle the rest.
@@ -28,14 +28,14 @@ Upload your tickets from Excel/CSV or connect your Jira/Azure DevOps accounts, a
 
 AgentXpert supports multiple practical applications for customer support automation:
 
-- **Batch Ticket Processing:**  
+- **File Ticket Processing:**  
   Upload Excel, CSV, or text files to process multiple tickets asynchronously for fast and efficient handling.
 
 - **System Integration with Webhooks:**  
   Integrate AgentXpert with your existing ticketing systems such as **Jira** and **Azure DevOps** to enable automated ticket processing using webhooks.
 
-- **MCP Server Integration (In Progress):**  
-  Developing the AgentXpert MCP Server to integrate with any MCP-compliant client for enhanced interoperability and automation.
+- **MCP Server Integration:**  
+  Built the AgentXpert MCP Server to integrate with any MCP-compliant client, enabling enhanced interoperability and automation across platforms.
 
 ---
 
