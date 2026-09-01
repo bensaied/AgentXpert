@@ -1,5 +1,5 @@
 # AgentXpert
-pp
+p
 **Say goodbye to manual ticket processing!**  
 Upload your tickets from Excel/CSV or connect your Jira/Azure DevOps accounts, and let **AgentXpert** handle the rest.
 
